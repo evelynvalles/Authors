@@ -1,0 +1,65 @@
+.App {
+  text-align: center;
+}
+
+.label {
+  margin-bottom: .7rem;
+}
+
+.inputBox {
+  padding: .3rem;
+  margin-bottom: .7rem;
+}
+
+form {
+  border: .1rem solid black;
+  width: 20rem;
+  padding: 1rem;
+}
+
+.formBox {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.btns {
+  display: flex;
+  justify-content: space-around;
+}
+
+.btn {
+  border: none;
+  border-radius: .5rem;
+  background-color: rgb(20, 195, 239);
+  color: white;
+  font-weight: bold;
+  padding: .3rem;
+  width: 5rem;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.tableBox {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 45rem;
+  margin-left: 25rem;
+}
+
+.btnTable {
+  border: none;
+  border-radius: .5rem;
+  background-color: burlywood;
+  color: white;
+  font-weight: bold;
+  padding: .3rem;
+  width: 3.5rem;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.css-1ndpvdd-MuiTableCell-root {
+  font-weight: 800;
+}
